@@ -21,15 +21,19 @@ Software Engineer in California building **agentic coding productivity tools**.
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=go,python,ts,js,lua,ruby&perline=8)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=go,python,ts,js,lua,ruby,html,css&perline=8)](https://skillicons.dev)
 
 **Frameworks & Libraries**
 
-[![Frameworks](https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express&perline=8)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,rails,flask,redux&perline=8)](https://skillicons.dev)
 
-**Infrastructure & Tools**
+**Data & Infrastructure**
 
-[![Infra](https://skillicons.dev/icons?i=docker,aws,terraform,postgres,sqlite,neovim,linux,githubactions&perline=8)](https://skillicons.dev)
+[![Infra](https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,sqlite,docker,aws,terraform&perline=8)](https://skillicons.dev)
+
+**Tools & Platforms**
+
+[![Tools](https://skillicons.dev/icons?i=neovim,linux,githubactions,gitlab,sentry,playwright,cloudflare,vercel&perline=8)](https://skillicons.dev)
 
 ## 📊 Stats
 
