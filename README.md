@@ -33,10 +33,13 @@ Software Engineer in California building **agentic coding productivity tools**.
 
 ## 📊 Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ariel-frischer&theme=nord&hide_border=true&area=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ariel-frischer&theme=minimal&hide_border=true&area=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ariel-frischer&theme=nord&hide_border=true&area=true" width="100%" />
-</picture>
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ariel-frischer&theme=nord_dark" width="100%" />
+</p>
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ariel-frischer&theme=nord_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ariel-frischer&theme=nord_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ariel-frischer&theme=nord_dark&utcOffset=-7" width="32%" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=80&section=footer" width="100%" />
