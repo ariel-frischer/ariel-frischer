@@ -21,11 +21,11 @@ Software Engineer in California building **agentic coding productivity tools**.
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=go,python,ts,lua,rust&perline=8)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=go,python,ts,js,lua,ruby&perline=8)](https://skillicons.dev)
 
 **Frameworks & Libraries**
 
-[![Frameworks](https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs&perline=8)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express&perline=8)](https://skillicons.dev)
 
 **Infrastructure & Tools**
 
