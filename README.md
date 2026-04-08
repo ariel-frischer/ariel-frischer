@@ -33,7 +33,7 @@ Software Engineer in California building **agentic coding productivity tools**.
 
 **Tools & Platforms**
 
-[![Tools](https://skillicons.dev/icons?i=neovim,linux,githubactions,gitlab,sentry,playwright,cloudflare,vercel&perline=8)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=neovim,linux,githubactions,gitlab,sentry,cloudflare,vercel&perline=8)](https://skillicons.dev)
 
 ## 📊 Stats
 
