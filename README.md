@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=160&section=header&text=Ariel%20Frischer&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Building%20Agentic%20Coding%20Tools&descSize=18&descColor=a9b1d6&descAlignY=55" width="100%" />
+<img src="./header.svg" width="100%" />
 
 ## 🧑‍💻 About Me
 
-Software Engineer in California building **agentic coding productivity tools**.
+Software Engineer in California building **AI productivity tools**.
 
 🚀 Founder of [RepoBird.ai](https://repobird.ai) & [Rentalot.ai](https://rentalot.ai) · 💚 Neovim enthusiast · 🔧 Open-source contributor
 
